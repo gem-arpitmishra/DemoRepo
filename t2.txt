@@ -1,0 +1,3 @@
+created some text in the t1.txt and now creating some texts in t2.txt as well 
+working on this directory
+work will be continue
