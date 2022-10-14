@@ -1,6 +1,4 @@
 hello world i am arpit mishra
 
 
-hey all of you here are some changes in this file too
-
-looking forward to doing more creating a scenario of conflict
+here i am adding some extra piece of code and will be doing changes accordingly
